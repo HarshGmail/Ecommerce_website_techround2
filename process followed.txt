@@ -1,0 +1,22 @@
+
+the login should contain 2 types of user, one for seller and one for customer
+customer can see products and buy them, so basically he will be viewing all the products in the products database
+The seller although will have a restricted view of his products only
+
+there needs to be another database for placing ordres and another for wishlist
+
+so now I have user database, product database, orders database, wishlist database
+
+task 1: complete the login and signup part using the only user data base
+status : complete, all databases are working well and login signup are done
+
+task 2: create the product database and an option for the seller to add items
+step 1: create a product database and have attributes like name, price and automatically take the username of the seller and store in the database
+step 2: to show the products make a table and only show the ones which match the username
+
+task 3: show the customer all the products
+
+task 4: add the wishlist and orders database option
+
+task 5: buy button that will send the details to orders table of the seller
+
